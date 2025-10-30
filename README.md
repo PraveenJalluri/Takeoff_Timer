@@ -4,7 +4,7 @@ Custom timers, ambient white jet sounds, and smooth productivity takeoff.
 Simple web app inspired from Flighty IOS_App. want to bring the same quality on to a webpage.
 
 
-## Features
+## Features-
 - 25-minute countdown timer  
 - Start / Pause / Reset controls  
 - Alert on completion
